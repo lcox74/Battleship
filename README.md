@@ -45,9 +45,9 @@ choice of boats are the following:
 Placement of boats require the following syntax: 
 `<Boat Number><Coordinate><Direction>`. Boat number comes from the table 
 above, coordinates must have be a letter followed by a number, i.e. `A1` for
-the top left. Directions can be one of the following up(`U`), down(`D`), 
-left(`L`), right(`R`). An example for a boat placement would be: `1B3D`.
-Which would create a Carrier at `B3` facing down.
+the top left. Directions can be one of the following down(`D`) or right(`R`). 
+An example for a boat placement would be: `1B3D`. Which would create a Carrier 
+at `B3` facing down.
 ```  
   1 2 3 4 5 6 7 8 9 10
 A . . . . . . . . . .
